@@ -10,8 +10,6 @@ class TextProcessor:
     numericRemover = None
     lowercaseApplier = None
     stopWordRemover = None
-    rareWordRemover = None
-    frequentWordRemover = None
     lemmatizer = None
 
     def __init__(self):
