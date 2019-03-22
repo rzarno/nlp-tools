@@ -1,5 +1,8 @@
-Python server and client to run microservice for text normalization and sentence splitting
-It's based on python 3.7 and runs on socket.
+Python server and client to run microservice for text normalization and sentence split.
+
+It's based on python 3.7
+
+Server and client communicate by socket connection.
 
 Project is used for english natural language processing
 
